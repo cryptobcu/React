@@ -1,0 +1,16 @@
+.bgpic {
+  background-image: url("../assets/images/bgpic.jpg");
+}
+
+.navbgpic {
+  background-image: url("../assets/images/navbgpic.jpg");
+}
+
+.img-size {
+  width: 50%;
+  height: 50%;
+}
+
+#drop:checked + .menu {
+  display: block;
+}

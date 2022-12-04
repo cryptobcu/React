@@ -1,0 +1,650 @@
+[
+  {
+    "id": 1,
+    "name": "Adana",
+    "latitude": "36.99",
+    "longitude": "35.33",
+    "population": 2183167,
+    "region": "Akdeniz"
+  },
+  {
+    "id": 2,
+    "name": "Adıyaman",
+    "latitude": "37.76",
+    "longitude": "38.28",
+    "population": 602774,
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "id": 3,
+    "name": "Afyonkarahisar",
+    "latitude": "38.76",
+    "longitude": "30.54",
+    "population": 709015,
+    "region": "Ege"
+  },
+  {
+    "id": 4,
+    "name": "Ağrı",
+    "latitude": "39.71",
+    "longitude": "43.04",
+    "population": 547210,
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 5,
+    "name": "Amasya",
+    "latitude": "40.65",
+    "longitude": "35.83",
+    "population": 322167,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 6,
+    "name": "Ankara",
+    "latitude": "39.92",
+    "longitude": "32.85",
+    "population": 5270575,
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 7,
+    "name": "Antalya",
+    "latitude": "36.91",
+    "longitude": "30.70",
+    "population": 2288456,
+    "region": "Akdeniz"
+  },
+  {
+    "id": 8,
+    "name": "Artvin",
+    "latitude": "41.18",
+    "longitude": "41.82",
+    "population": 168370,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 9,
+    "name": "Aydın",
+    "latitude": "37.85",
+    "longitude": "27.84",
+    "population": 1053506,
+    "region": "Ege"
+  },
+  {
+    "id": 10,
+    "name": "Balıkesir",
+    "latitude": "39.65",
+    "longitude": "27.89",
+    "population": 1186688,
+    "region": "Ege"
+  },
+  {
+    "id": 11,
+    "name": "Bilecik",
+    "latitude": "40.14",
+    "longitude": "29.98",
+    "population": 212361,
+    "region": "Marmara"
+  },
+  {
+    "id": 12,
+    "name": "Bingöl",
+    "latitude": "38.88",
+    "longitude": "40.49",
+    "population": 267184,
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 13,
+    "name": "Bitlis",
+    "latitude": "38.340",
+    "longitude": "42.11",
+    "population": 267184,
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 14,
+    "name": "Bolu",
+    "latitude": "40.74",
+    "longitude": "31.61",
+    "population": 291095,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 15,
+    "name": "Burdur",
+    "latitude": "37.72",
+    "longitude": "30.29",
+    "population": 258339,
+    "region": "Akdeniz"
+  },
+  {
+    "id": 16,
+    "name": "Bursa",
+    "latitude": "40.20",
+    "longitude": "29.06",
+    "population": 2842547,
+    "region": "Marmara"
+  },
+  {
+    "id": 17,
+    "name": "Çanakkale",
+    "latitude": "40.16",
+    "longitude": "26.41",
+    "population": 513341,
+    "region": "Marmara"
+  },
+  {
+    "id": 18,
+    "name": "Çankırı",
+    "latitude": "40.60",
+    "longitude": "33.62",
+    "population": 180945,
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 19,
+    "name": "Çorum",
+    "latitude": "40.55",
+    "longitude": "34.95",
+    "population": 525180,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 20,
+    "name": "Denizli",
+    "latitude": "37.77",
+    "longitude": "29.09",
+    "population": 993442,
+    "region": "Ege"
+  },
+  {
+    "id": 21,
+    "name": "Diyarbakır",
+    "latitude": "37.91",
+    "longitude": "40.22",
+    "population": 1654196,
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "id": 22,
+    "name": "Edirne",
+    "latitude": "41.68",
+    "longitude": "26.56",
+    "population": 402537,
+    "region": "Marmara"
+  },
+  {
+    "id": 23,
+    "name": "Elâzığ",
+    "latitude": "38.67",
+    "longitude": "39.22",
+    "population": 574304,
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 24,
+    "name": "Erzincan",
+    "latitude": "39.74",
+    "longitude": "39.49",
+    "population": 222918,
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 25,
+    "name": "Erzurum",
+    "latitude": "39.91",
+    "longitude": "41.28",
+    "population": 762321,
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 26,
+    "name": "Eskişehir",
+    "latitude": "39.78",
+    "longitude": "30.52",
+    "population": 826716,
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 27,
+    "name": "Gaziantep",
+    "latitude": "37.06",
+    "longitude": "37.38",
+    "population": 1931836,
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "id": 28,
+    "name": "Giresun",
+    "latitude": "40.92",
+    "longitude": "38.39",
+    "population": 426686,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 29,
+    "name": "Gümüşhane",
+    "latitude": "40.46",
+    "longitude": "39.47",
+    "population": 151449,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 30,
+    "name": "Hakkâri",
+    "latitude": "37.57",
+    "longitude": "43.74",
+    "population": 278775,
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 31,
+    "name": "Hatay",
+    "latitude": "36.20",
+    "longitude": "36.16",
+    "population": 1533507,
+    "region": "Akdeniz"
+  },
+  {
+    "id": 32,
+    "name": "Isparta",
+    "latitude": "37.76",
+    "longitude": "30.55",
+    "population": 421766,
+    "region": "Akdeniz"
+  },
+  {
+    "id": 33,
+    "name": "Mersin",
+    "latitude": "36.81",
+    "longitude": "34.64",
+    "population": 1745221,
+    "region": "Akdeniz"
+  },
+  {
+    "id": 34,
+    "name": "İstanbul",
+    "latitude": "41.01",
+    "longitude": "28.95",
+    "population": 14657434,
+    "region": "Marmara"
+  },
+  {
+    "id": 35,
+    "name": "İzmir",
+    "latitude": "38.41",
+    "longitude": "27.14",
+    "population": 4168415,
+    "region": "Ege"
+  },
+  {
+    "id": 36,
+    "name": "Kars",
+    "latitude": "40.60",
+    "longitude": "43.09",
+    "population": 292660,
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 37,
+    "name": "Kastamonu",
+    "latitude": "41.38",
+    "longitude": "33.78",
+    "population": 372633,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 38,
+    "name": "Kayseri",
+    "latitude": "38.73",
+    "longitude": "35.49",
+    "population": 1341056,
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 39,
+    "name": "Kırklareli",
+    "latitude": "41.74",
+    "longitude": "27.23",
+    "population": 346973,
+    "region": "Marmara"
+  },
+  {
+    "id": 40,
+    "name": "Kırşehir",
+    "latitude": "39.15",
+    "longitude": "34.16",
+    "population": 225562,
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 41,
+    "name": "Kocaeli",
+    "latitude": "40.85",
+    "longitude": "29.87",
+    "population": 1780055,
+    "region": "Marmara"
+  },
+  {
+    "id": 42,
+    "name": "Konya",
+    "latitude": "37.87",
+    "longitude": "32.48",
+    "population": 2130544,
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 43,
+    "name": "Kütahya",
+    "latitude": "39.42",
+    "longitude": "29.98",
+    "population": 571463,
+    "region": "Ege"
+  },
+  {
+    "id": 44,
+    "name": "Malatya",
+    "latitude": "38.35",
+    "longitude": "38.32",
+    "population": 772904,
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 45,
+    "name": "Manisa",
+    "latitude": "38.61",
+    "longitude": "27.42",
+    "population": 1380366,
+    "region": "Ege"
+  },
+  {
+    "id": 46,
+    "name": "Kahramanmaraş",
+    "latitude": "37.58",
+    "longitude": "36.93",
+    "population": 1096610,
+    "region": "Akdeniz"
+  },
+  {
+    "id": 47,
+    "name": "Mardin",
+    "latitude": "37.31",
+    "longitude": "40.74",
+    "population": 796591,
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "id": 48,
+    "name": "Muğla",
+    "latitude": "37.22",
+    "longitude": "28.37",
+    "population": 908877,
+    "region": "Ege"
+  },
+  {
+    "id": 49,
+    "name": "Muş",
+    "latitude": "38.73",
+    "longitude": "41.48",
+    "population": 408728,
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 50,
+    "name": "Nevşehir",
+    "latitude": "38.63",
+    "longitude": "34.71",
+    "population": 286767,
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 51,
+    "name": "Niğde",
+    "latitude": "37.97",
+    "longitude": "34.68",
+    "population": 346114,
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 52,
+    "name": "Ordu",
+    "latitude": "40.9839",
+    "longitude": "37.89",
+    "population": 728949,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 53,
+    "name": "Rize",
+    "latitude": "41.02",
+    "longitude": "40.52",
+    "population": 328979,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 54,
+    "name": "Sakarya",
+    "latitude": "39.50",
+    "longitude": "32.08",
+    "population": 953181,
+    "region": "Marmara"
+  },
+  {
+    "id": 55,
+    "name": "Samsun",
+    "latitude": "41.28",
+    "longitude": "36.34",
+    "population": 1279884,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 56,
+    "name": "Siirt",
+    "latitude": "37.93",
+    "longitude": "41.94",
+    "population": 320351,
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "id": 57,
+    "name": "Sinop",
+    "latitude": "42.03",
+    "longitude": "35.16",
+    "population": 204133,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 58,
+    "name": "Sivas",
+    "latitude": "39.75",
+    "longitude": "37.02",
+    "population": 618617,
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 59,
+    "name": "Tekirdağ",
+    "latitude": "40.98",
+    "longitude": "27.51",
+    "population": 937910,
+    "region": "Marmara"
+  },
+  {
+    "id": 60,
+    "name": "Tokat",
+    "latitude": "40.31",
+    "longitude": "36.55",
+    "population": 593990,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 61,
+    "name": "Trabzon",
+    "latitude": "41.01",
+    "longitude": "39.73",
+    "population": 768417,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 62,
+    "name": "Tunceli",
+    "latitude": "39.10",
+    "longitude": "39.54",
+    "population": 86076,
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 63,
+    "name": "Şanlıurfa",
+    "latitude": "37.17",
+    "longitude": "38.79",
+    "population": 1892320,
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "id": 64,
+    "name": "Uşak",
+    "latitude": "38.67",
+    "longitude": "29.41",
+    "population": 353048,
+    "region": "Ege"
+  },
+  {
+    "id": 65,
+    "name": "Van",
+    "latitude": "38.49",
+    "longitude": "43.38",
+    "population": 1096397,
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 66,
+    "name": "Yozgat",
+    "latitude": "39.82",
+    "longitude": "34.80",
+    "population": 419440,
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 67,
+    "name": "Zonguldak",
+    "latitude": "41.45",
+    "longitude": "31.79",
+    "population": 595907,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 68,
+    "name": "Aksaray",
+    "latitude": "38.37",
+    "longitude": "34.03",
+    "population": 386514,
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 69,
+    "name": "Bayburt",
+    "latitude": "40.26",
+    "longitude": "40.22",
+    "population": 78550,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 70,
+    "name": "Karaman",
+    "latitude": "37.18",
+    "longitude": "33.22",
+    "population": 242196,
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 71,
+    "name": "Kırıkkale",
+    "latitude": "39.85",
+    "longitude": "33.51",
+    "population": 270271,
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 72,
+    "name": "Batman",
+    "latitude": "37.89",
+    "longitude": "41.13",
+    "population": 566633,
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "id": 73,
+    "name": "Şırnak",
+    "latitude": "37.51",
+    "longitude": "42.45",
+    "population": 490184,
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "id": 74,
+    "name": "Bartın",
+    "latitude": "41.64",
+    "longitude": "32.34",
+    "population": 190708,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 75,
+    "name": "Ardahan",
+    "latitude": "41.11",
+    "longitude": "42.70",
+    "population": 99265,
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 76,
+    "name": "Iğdır",
+    "latitude": "39.92",
+    "longitude": "44.05",
+    "population": 192435,
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 77,
+    "name": "Yalova",
+    "latitude": "40.66",
+    "longitude": "29.28",
+    "population": 233009,
+    "region": "Marmara"
+  },
+  {
+    "id": 78,
+    "name": "Karabük",
+    "latitude": "41.20",
+    "longitude": "32.63",
+    "population": 236978,
+    "region": "Karadeniz"
+  },
+  {
+    "id": 79,
+    "name": "Kilis",
+    "latitude": "36.72",
+    "longitude": "37.12",
+    "population": 130655,
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "id": 80,
+    "name": "Osmaniye",
+    "latitude": "37.07",
+    "longitude": "36.25",
+    "population": 512873,
+    "region": "Akdeniz"
+  },
+  {
+    "id": 81,
+    "name": "Düzce",
+    "latitude": "40.84",
+    "longitude": "31.16",
+    "population": 360388,
+    "region": "Karadeniz"
+  }
+]
