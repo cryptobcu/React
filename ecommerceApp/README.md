@@ -1,4 +1,4 @@
-# Turkcell Geleceği Yazanlar 401 E-Ticaret Projesi
+#  Turkcell Geleceği Yazanlar 401 E-Ticaret Projesi
 ![Geleceği Yazanlar Logo](https://gelecegiyazanlar.turkcell.com.tr/themes/custom/gyz/logo.svg)
 
 ## Backend Ayağa Kaldırma
