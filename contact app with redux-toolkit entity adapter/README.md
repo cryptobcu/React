@@ -1,3 +1,3 @@
 # React Contact App
 ## React - Redux Toolkit Entity Adapter - Nanoid 
-### I used entity adapter for performance and normalizind data.
+### I used entity adapter for performance and normalizing data.
